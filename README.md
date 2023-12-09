@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AbdallahAlsayed744
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning android 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @AbdallahAlsayed
+- 👀 I'm android developer 
+- 📫 I’m interested in programming
+
 
 <!---
 AbdallahAlsayed744/AbdallahAlsayed744 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
