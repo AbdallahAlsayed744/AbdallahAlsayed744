@@ -14,7 +14,6 @@
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 As a CS graduate, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Java , Kotlin or anything related to android development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
 
