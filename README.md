@@ -1,45 +1,71 @@
+##  Tech Stack
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+### Core Android & Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![XML](https://img.shields.io/badge/XML%20Layouts-%23FF6B35.svg?style=for-the-badge&logo=android&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material%203-%23757575.svg?style=for-the-badge&logo=material-design&logoColor=white)
 
-<h3 align="center">
-  Welcome to Abdallah Alsayed's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+###  Architecture & Patterns
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23181717.svg?style=for-the-badge&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-%230078D4.svg?style=for-the-badge&logoColor=white)
+![MVI](https://img.shields.io/badge/MVI-%23AA00FF.svg?style=for-the-badge&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-%23E91E63.svg?style=for-the-badge&logoColor=white)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-%2300897B.svg?style=for-the-badge&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-%23FF7043.svg?style=for-the-badge&logoColor=white)
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+###  Async & Dependency Injection
+![Coroutines](https://img.shields.io/badge/Coroutines-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![StateFlow](https://img.shields.io/badge/StateFlow-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![LiveData](https://img.shields.io/badge/LiveData-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-%23F5A623.svg?style=for-the-badge&logoColor=white)
 
-- 🏢 I'm a Software Engineer 
-- 👨‍💻 As a CS graduate, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Android native , flutter or anything related to mobile development.
+### Networking & Storage
+![Retrofit](https://img.shields.io/badge/Retrofit-%2348B983.svg?style=for-the-badge&logo=square&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-%23087CFA.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Room](https://img.shields.io/badge/Room%20DB-%23FF6B35.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![DataStore](https://img.shields.io/badge/DataStore-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![KotlinX Serialization](https://img.shields.io/badge/KotlinX%20Serialization-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
+### Testing
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![MockK](https://img.shields.io/badge/MockK-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Mokkery](https://img.shields.io/badge/Mokkery-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-%23E91E63.svg?style=for-the-badge&logoColor=white)
 
+### UI & Image Libraries
+![Glide](https://img.shields.io/badge/Glide-%2300B96B.svg?style=for-the-badge&logo=android&logoColor=white)
+![Coil](https://img.shields.io/badge/Coil-%23181717.svg?style=for-the-badge&logoColor=white)
 
-### Connect with Me :
+### Dev Tools & Workflow
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git Flow](https://img.shields.io/badge/Git%20Flow-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%230052CC.svg?style=for-the-badge&logo=trello&logoColor=white)
 
-<a href="https://www.linkedin.com/in/abdallahalsayed/" target="_blank"><img src="https://img.shields.io/badge/-Abdallah%20Alsayed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+</div>
 
-### 🛠 &nbsp;Tech Stack
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=ـJava)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
-![Xml](https://img.shields.io/badge/-Xml-05122A?style=flat&logo=Xml)&nbsp;
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-05122A?style=flat&logo=JetpackCompose)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android)&nbsp;
-![MVVM](https://img.shields.io/badge/-MVVM-05122A?style=flat&logo=MVVM)&nbsp;
-![Coroutines](https://img.shields.io/badge/-Coroutines-05122A?style=flat&logo=Coroutines)&nbsp;
-![Hilt](https://img.shields.io/badge/-Hilt-05122A?style=flat&logo=Hilt)&nbsp;
-![Romm](https://img.shields.io/badge/-Room-05122A?style=flat&logo=Room)&nbsp;
+---
 
+<div align="center">
 
+##  Contribution Streak
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rodinamomen&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
+</div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdallahAlsayed744&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=AbdallahAlsayed744&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=AbdallahAlsayed744&style=for-the-badge">
-</a>
+<div align="center">
+
+## Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallahalsayed/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallahalsaied2@gmail.com)
+</div>
